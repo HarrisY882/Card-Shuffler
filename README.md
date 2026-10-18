@@ -8,3 +8,6 @@ This right here is the gear system mechanism which does work when it spins, howe
 
 This is the box design, right now i doesnt look great im going to work on it.
 <img width="802" height="483" alt="Screenshot 2026-10-18 at 15 19 07" src="https://github.com/user-attachments/assets/6e2ec05b-ba2e-42ce-b9ed-b3614c1cdfcd" />
+
+
+I used AI to help me calculate the BOM and also with developing images for the project design as seen i stated it besides it.
