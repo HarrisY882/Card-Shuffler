@@ -24,7 +24,7 @@
 ### 2026-10-14 – 14:26 - deciding on app to use,
 
 **0.5h**
-
+Starting off i had to use onshape for my CAD 3d modelling, its actually really good and easy to use once you learn how it works. This was then what i used to make my first shapes, and designs
 14:26 - deciding on app to use,
 
 ![Screenshot 2026-10-14 at 14.32.34](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sU7lz0AUeRt9KbRktJSUgIbswkpODCwr/35e8c4351e6e1b2d1b6fd634b9f252d747a7fb7b21898c41e84b6e8e3a344fc6.png)
